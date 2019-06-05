@@ -2,8 +2,8 @@
 		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.jesper</groupId>
-	<artifactId>jesper_seckill</artifactId>
+	<groupId>com.tydic</groupId>
+	<artifactId>springboot_seckill</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
@@ -13,7 +13,7 @@
 		<version>1.5.8.RELEASE</version>
 	</parent>
 
-	<name>jesper_seckill</name>
+	<name>springboot_seckill</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
